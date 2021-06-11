@@ -1,0 +1,9 @@
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\bin\Debug\ConsoleApp.exe
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\bin\Debug\DemoLibrary.dll
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\bin\Debug\DemoLibrary.pdb
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\obj\Debug\ConsoleApp.exe
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\ConsoleApp\obj\Debug\ConsoleApp.pdb

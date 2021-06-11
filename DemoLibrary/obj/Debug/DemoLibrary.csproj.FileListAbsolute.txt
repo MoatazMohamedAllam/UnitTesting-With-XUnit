@@ -1,0 +1,4 @@
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\DemoLibrary\bin\Debug\DemoLibrary.dll
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\DemoLibrary\obj\Debug\DemoLibrary.dll
+M:\Asp.net Core Demos\Testing_Demo_with_XUnit\UnitTesting_Demo\DemoLibrary\obj\Debug\DemoLibrary.pdb
